@@ -1,0 +1,10 @@
+.metallic-box {
+    background: linear-gradient(69deg, #2e2e2e, #8f8f8f, #4f4f4f, #8f8f8f, #4e474e, #ffff, #8f8f8f, #8f8f8f, #dbdbdb, #cccccc);
+    border: var(--md) ridge rgba(150, 150, 150, .5);
+    /* border-radius: 10px; */
+}
+
+#metallic-baby {
+    border: var(--sm) ridge rgba(200, 200, 200, .2);
+    height: 85%;
+}
